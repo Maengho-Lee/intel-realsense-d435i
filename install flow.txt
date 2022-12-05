@@ -6,4 +6,6 @@ pip install scipy
 -PyTorch
  참고 url https://wandb.ai/wandb_fc/korean/reports/Windows-YOLOv5---VmlldzoxODc3MjE1#%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0
 
+-anaconda 설치
+아나콘다는 오픈소스패키지 및 라이브러리 설치 관리 프로그램이다.
 
