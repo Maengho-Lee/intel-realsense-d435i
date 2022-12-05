@@ -1,0 +1,4 @@
+python version = 3.9.10
+pip install opencv
+pip install tensorflow
+pip install scipy
